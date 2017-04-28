@@ -1,6 +1,4 @@
 import { connect } from 'react-data-actions';
-import {characterDetailsActions} from '../actions/characterDetailsActions';
-import {characterActions} from '../actions/characterActions';
 import React from 'react';
 import _ from 'lodash';
 

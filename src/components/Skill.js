@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Component, PropTypes } from 'react';
 import Skills from '../helpers/Skills';
 
 class Stat extends React.Component {

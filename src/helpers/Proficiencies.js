@@ -1,5 +1,5 @@
 export default {
-      { 
+      proficiencies: {
         simpleWeapons: [
           { 
             name: "Light Armor",
